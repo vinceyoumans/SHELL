@@ -1,0 +1,22 @@
+    {
+        "timer01": {
+            "tick_every_second": 1,
+            "count": 0,
+            "message": "tick"
+        },
+        "timer02": {
+            "tick_every_second": 2,
+            "count": 0,
+            "message": "took"
+        },
+        "timer03": {
+            "tick_every_second": 10,
+            "count": 0,
+            "message": "*******************  BOOONG"
+        },
+        "boom": {
+            "boom_time_second": 50,
+            "count": 0,
+            "message": "KKKAAAAAAA BOOOMMMMM"
+        }
+    }
